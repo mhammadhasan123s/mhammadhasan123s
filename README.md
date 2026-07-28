@@ -43,9 +43,9 @@
 
 ## Experience
 
-- **Syrian Arab Red Crescent** Technical Assessment Specialist, Information Management *(2023–2025)*
-- **UNICEF** (via Baseline Consulting) Monitoring Assistant *(2021–2023)*
-- **Syria Trust for Development** M&E Supervisor · Distribution Officer · Reporting Coordinator *(2017–2021)*
+- **Syrian Arab Red Crescent** - Technical Assessment Specialist, Information Management *(2023–2025)*
+- **UNICEF** - (via Baseline Consulting) Monitoring Assistant *(2021–2023)*
+- **Syria Trust for Development** - M&E Supervisor · Distribution Officer · Reporting Coordinator *(2017–2021)*
 
 8+ years designing digital data-collection systems (ODK/Kobo), building Power BI dashboards, and leading monitoring and reporting across large-scale humanitarian responses with IFRC, ICRC, UN agencies, and INGOs.
 
@@ -53,8 +53,8 @@
 
 ## Education
 
-- **MSc, Data Science & Analytics** — Universiti Kebangsaan Malaysia (UKM) *(2025–Present)*
-- **BSc, Applied Mathematics & Informatics** — Damascus University *(2012–2017)*
+- **MSc, Data Science & Analytics** - Universiti Kebangsaan Malaysia (UKM) *(2025–Present)*
+- **BSc, Applied Mathematics & Informatics** - Damascus University *(2012–2017)*
 
 ## Languages
 
