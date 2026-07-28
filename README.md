@@ -1,8 +1,8 @@
-# Hi, I'm Mhamad Shhab Aldeen Hasan 👋
+# Hi, I'm Mhamad Shhab Aldeen Hasan
 
 **Data Scientist & Humanitarian Information-Management Specialist** — 8+ years turning messy, multi-source data into decisions, now completing an **MSc in Data Science & Analytics at UKM (Malaysia)**.
 
-📍 Bangi, Selangor, Malaysia &nbsp;·&nbsp; 📧 mhammadhasan123s@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/shhab-hasan)
+📍 Bangi, Selangor, Malaysia &nbsp;·&nbsp; mhammadhasan123s@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/shhab-hasan)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🔭 Featured Projects
+## Featured Projects
 
 **Big Data & Engineering**
 - [**bts-flight-delay-analysis**](https://github.com/mhammadhasan123s/bts-flight-delay-analysis) — End-to-end Hadoop/Spark pipeline on ~645K flight records (HDFS → Pig/Hive → Spark MLlib); Random Forest classifier, **AUC 0.96**.
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Languages:** Python, R, SQL
 - **Machine Learning:** Classification, Regression, Survival Analysis, Imbalanced Data (SMOTE, resampling, threshold tuning), Model Evaluation & Selection (scikit-learn)
@@ -41,7 +41,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 - **Syrian Arab Red Crescent** — Technical Assessment Specialist, Information Management *(2023–2025)*
 - **UNICEF** (via Baseline Consulting) — Monitoring Assistant *(2021–2023)*
@@ -51,17 +51,15 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 - **MSc, Data Science & Analytics** — Universiti Kebangsaan Malaysia (UKM) *(2025–Present)*
 - **BSc, Applied Mathematics & Informatics** — Damascus University *(2012–2017)*
 
-## 🌍 Languages
+## Languages
 
 Arabic (Native) · English (Professional Working Proficiency)
 
 ---
 
-<!-- Optional stats cards — delete this block if you prefer a cleaner page -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhammadhasan123s&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhammadhasan123s&layout=compact&hide_border=true)
+
