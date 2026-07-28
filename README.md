@@ -1,6 +1,6 @@
 # Hi, I'm Mhamad Shhab Aldeen Hasan
 
-**Data Scientist & Humanitarian Information-Management Specialist** — 8+ years turning messy, multi-source data into decisions, now completing an **MSc in Data Science & Analytics at UKM (Malaysia)**.
+**Data Scientist & Humanitarian Information-Management Specialist** 8+ years turning messy, multi-source data into decisions, now completing an **MSc in Data Science & Analytics at UKM (Malaysia)**.
 
 📍 Bangi, Selangor, Malaysia &nbsp;·&nbsp; mhammadhasan123s@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/shhab-hasan)
 
@@ -43,9 +43,9 @@
 
 ## Experience
 
-- **Syrian Arab Red Crescent** — Technical Assessment Specialist, Information Management *(2023–2025)*
-- **UNICEF** (via Baseline Consulting) — Monitoring Assistant *(2021–2023)*
-- **Syria Trust for Development** — M&E Supervisor · Distribution Officer · Reporting Coordinator *(2017–2021)*
+- **Syrian Arab Red Crescent** Technical Assessment Specialist, Information Management *(2023–2025)*
+- **UNICEF** (via Baseline Consulting) Monitoring Assistant *(2021–2023)*
+- **Syria Trust for Development** M&E Supervisor · Distribution Officer · Reporting Coordinator *(2017–2021)*
 
 8+ years designing digital data-collection systems (ODK/Kobo), building Power BI dashboards, and leading monitoring and reporting across large-scale humanitarian responses with IFRC, ICRC, UN agencies, and INGOs.
 
